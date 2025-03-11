@@ -7,7 +7,6 @@ This project is a simple Java application that prints a welcome message and coun
 - `settings.gradle.kts`: Configures the root project name.
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 - `build.gradle.kts`: Configures the Gradle build, including plugins, dependencies, and tasks.
-- `src/main/java/org/example/Main.java`: Contains the main class of the application.
 
 ## Prerequisites
 
